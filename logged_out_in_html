@@ -1,4 +1,4 @@
 <body>
     <h2>you are logged out</h2>
-    <a href="#">log back in</a>
+    <a href="https://webillapp.auth.us-east-1.amazoncognito.com/logout?client_id=4qrb4j97voqftdbbbifpr62nmi&logout_uri=https%3A%2F%2F%5B%3A%3A%5D%3A8000%2Floggged_out.html">log back in</a>
 </body>
